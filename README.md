@@ -21,7 +21,7 @@ $ pip install tensorflow keras numpy matplotlib scikit-learn
 Running the Notebook
 1) Clone the repository:
 
-$ git clone https://github.com/yourusername/mnist-cnn-classifier.git
+$ git clone https://github.com/Surya-Prakash25/mnist-cnn-classifier.git
 $ cd mnist-cnn-classifier
 
 2) Open the Jupyter notebook:
